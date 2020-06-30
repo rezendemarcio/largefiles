@@ -1,0 +1,16 @@
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\LargeFiles.exe.config
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\LargeFiles.exe
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\LargeFiles.pdb
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Buffers.dll
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Memory.dll
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Buffers.xml
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Memory.xml
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\obj\Debug\LargeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\obj\Debug\LargeFiles.csproj.CopyComplete
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\obj\Debug\LargeFiles.exe
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\obj\Debug\LargeFiles.pdb
+C:\Users\Marcio\source\repos\LargeFiles\LargeFiles\obj\Debug\LargeFiles.csprojAssemblyReference.cache
